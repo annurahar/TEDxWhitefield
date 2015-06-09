@@ -15,7 +15,7 @@
     <section id="register-page">
         <div class="container">
             <div class="center">        
-                <h2>Register Yourself To Get Event Pass</h2>
+                <h2>Register Yourself</h2>
                 <p class="lead"><strong>Info</strong>: Attendees need to pay fee.</p>
             </div>
             <div class="row contact-wrap"> 
