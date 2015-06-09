@@ -51,7 +51,7 @@
                             <textarea name="message" id="message" required="required" class="form-control" rows="8"></textarea>
                         </div>                        
                         <div class="form-group">
-                            <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Submit Message</button>
+                            <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Send Message</button>
                         </div>
                     </div>
                 </form> 

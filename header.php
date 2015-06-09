@@ -28,19 +28,12 @@
                     <ul class="nav navbar-nav">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about-us.html">About Us</a></li>
+                        <li><a href="events.php">Events</a></li>
                         <li><a href="speakers.php">Speakers</a></li>
-                        <li><a href="sponsors.php">Sponsors</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="blog-item.html">Blog Single</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
-                                <li><a href="404.html">404</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
-                            </ul>
-                        </li>
+                        <li><a href="sponsors.php">Sponsors & Partners</a></li>
                         <li><a href="register.php">Register</a></li> 
-                        <li><a href="contact-us.php">Contact</a></li>                        
+                        <li><a href="contact-us.php">Contact</a></li> 
+                        <li><a href="faq.php">FAQ</a></li>
                     </ul>
                 </div>
             </div><!--/.container-->

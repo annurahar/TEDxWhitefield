@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>TEDx | Sponsors</title>
+    <title>TEDx | Sponsors & Partners</title>
     <!-- core CSS -->
     <?php include('css.php');?> <!--including common css -->
 </head><!--/head-->
